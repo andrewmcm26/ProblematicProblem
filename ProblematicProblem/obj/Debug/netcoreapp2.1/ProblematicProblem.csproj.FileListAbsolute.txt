@@ -1,0 +1,10 @@
+/Users/andrewmcmahon/Desktop/Repos/ProblematicProblem/ProblematicProblem/obj/Debug/netcoreapp2.1/ProblematicProblem.csprojAssemblyReference.cache
+/Users/andrewmcmahon/Desktop/Repos/ProblematicProblem/ProblematicProblem/obj/Debug/netcoreapp2.1/ProblematicProblem.AssemblyInfoInputs.cache
+/Users/andrewmcmahon/Desktop/Repos/ProblematicProblem/ProblematicProblem/obj/Debug/netcoreapp2.1/ProblematicProblem.AssemblyInfo.cs
+/Users/andrewmcmahon/Desktop/Repos/ProblematicProblem/ProblematicProblem/bin/Debug/netcoreapp2.1/ProblematicProblem.deps.json
+/Users/andrewmcmahon/Desktop/Repos/ProblematicProblem/ProblematicProblem/bin/Debug/netcoreapp2.1/ProblematicProblem.runtimeconfig.json
+/Users/andrewmcmahon/Desktop/Repos/ProblematicProblem/ProblematicProblem/bin/Debug/netcoreapp2.1/ProblematicProblem.runtimeconfig.dev.json
+/Users/andrewmcmahon/Desktop/Repos/ProblematicProblem/ProblematicProblem/bin/Debug/netcoreapp2.1/ProblematicProblem.dll
+/Users/andrewmcmahon/Desktop/Repos/ProblematicProblem/ProblematicProblem/bin/Debug/netcoreapp2.1/ProblematicProblem.pdb
+/Users/andrewmcmahon/Desktop/Repos/ProblematicProblem/ProblematicProblem/obj/Debug/netcoreapp2.1/ProblematicProblem.dll
+/Users/andrewmcmahon/Desktop/Repos/ProblematicProblem/ProblematicProblem/obj/Debug/netcoreapp2.1/ProblematicProblem.pdb
